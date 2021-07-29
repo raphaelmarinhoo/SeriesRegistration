@@ -1,0 +1,16 @@
+/home/raphael/Studying/DesafioC#/Cadastrodeseries/bin/Debug/net5.0/Cadastrodeseries
+/home/raphael/Studying/DesafioC#/Cadastrodeseries/bin/Debug/net5.0/Cadastrodeseries.deps.json
+/home/raphael/Studying/DesafioC#/Cadastrodeseries/bin/Debug/net5.0/Cadastrodeseries.runtimeconfig.json
+/home/raphael/Studying/DesafioC#/Cadastrodeseries/bin/Debug/net5.0/Cadastrodeseries.runtimeconfig.dev.json
+/home/raphael/Studying/DesafioC#/Cadastrodeseries/bin/Debug/net5.0/Cadastrodeseries.dll
+/home/raphael/Studying/DesafioC#/Cadastrodeseries/bin/Debug/net5.0/ref/Cadastrodeseries.dll
+/home/raphael/Studying/DesafioC#/Cadastrodeseries/bin/Debug/net5.0/Cadastrodeseries.pdb
+/home/raphael/Studying/DesafioC#/Cadastrodeseries/obj/Debug/net5.0/Cadastrodeseries.csproj.AssemblyReference.cache
+/home/raphael/Studying/DesafioC#/Cadastrodeseries/obj/Debug/net5.0/Cadastrodeseries.GeneratedMSBuildEditorConfig.editorconfig
+/home/raphael/Studying/DesafioC#/Cadastrodeseries/obj/Debug/net5.0/Cadastrodeseries.AssemblyInfoInputs.cache
+/home/raphael/Studying/DesafioC#/Cadastrodeseries/obj/Debug/net5.0/Cadastrodeseries.AssemblyInfo.cs
+/home/raphael/Studying/DesafioC#/Cadastrodeseries/obj/Debug/net5.0/Cadastrodeseries.csproj.CoreCompileInputs.cache
+/home/raphael/Studying/DesafioC#/Cadastrodeseries/obj/Debug/net5.0/Cadastrodeseries.dll
+/home/raphael/Studying/DesafioC#/Cadastrodeseries/obj/Debug/net5.0/ref/Cadastrodeseries.dll
+/home/raphael/Studying/DesafioC#/Cadastrodeseries/obj/Debug/net5.0/Cadastrodeseries.pdb
+/home/raphael/Studying/DesafioC#/Cadastrodeseries/obj/Debug/net5.0/Cadastrodeseries.genruntimeconfig.cache
